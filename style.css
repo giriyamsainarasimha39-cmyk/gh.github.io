@@ -44,7 +44,31 @@ nav a {
     cursor: pointer;
     margin-top: 10px;
 }
+/* HER */
+.her {
+    height: 70vh;
+    background: radial-gradient(circle at center, #ff8a00, #e52e71);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 
+}
+
+.her h1 {
+    font-size: 50px;
+}
+
+.her button {
+    padding: 10px 20px;
+    border: none;
+    background: white;
+    color: black;
+    cursor: pointer;
+    margin-top: 10px;
+}
 /* FEATURES */
 .features {
     display: flex;
